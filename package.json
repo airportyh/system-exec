@@ -1,0 +1,22 @@
+{
+  "name": "system-exec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.9.5"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/airportyh/system-exec"
+  }
+}
