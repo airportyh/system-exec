@@ -6,7 +6,7 @@ the error object's message property.
 ## Example
 
 ```
-const { exec } = require("system_exec");
+const { exec } = require("system-exec");
 
 async function main() {
     try {
